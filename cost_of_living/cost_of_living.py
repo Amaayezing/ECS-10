@@ -1,0 +1,15 @@
+food = input('Food: ')
+food = float(food)
+rent = input('Rent: ')
+rent = float(rent)
+entertainment = input('Entertainment: ')
+entertainment = float(entertainment)
+transportation = input('Transportation: ')
+transportation = float(transportation)
+weed = input('Weed: ')
+weed = float(weed)
+netflix = input('Netflix: ')
+netflix = float(netflix)
+
+monthly_cost_of_living = food + rent + entertainment + transportation + weed + netflix
+print('Your total monthly cost is: ', monthly_cost_of_living)

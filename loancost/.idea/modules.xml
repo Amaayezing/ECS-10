@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Cipher/.idea/Cipher.iml" filepath="$PROJECT_DIR$/../Cipher/.idea/Cipher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ConnectN/.idea/ConnectN.iml" filepath="$PROJECT_DIR$/../ConnectN/.idea/ConnectN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FractionAdd/.idea/FractionAdd.iml" filepath="$PROJECT_DIR$/../FractionAdd/.idea/FractionAdd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FractionAddRadhav/.idea/FractionAddRadhav.iml" filepath="$PROJECT_DIR$/../FractionAddRadhav/.idea/FractionAddRadhav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Grading/.idea/Grading.iml" filepath="$PROJECT_DIR$/../Grading/.idea/Grading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HTML2Latex/.idea/HTML2Latex.iml" filepath="$PROJECT_DIR$/../HTML2Latex/.idea/HTML2Latex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Hangman/.idea/Hangman.iml" filepath="$PROJECT_DIR$/../Hangman/.idea/Hangman.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Investments/.idea/Investments.iml" filepath="$PROJECT_DIR$/../Investments/.idea/Investments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MaskingTwitter/.idea/MaskingTwitter.iml" filepath="$PROJECT_DIR$/../MaskingTwitter/.idea/MaskingTwitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MostCommonWord/.idea/MostCommonWord.iml" filepath="$PROJECT_DIR$/../MostCommonWord/.idea/MostCommonWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OneTurnBattle/.idea/OneTurnBattle.iml" filepath="$PROJECT_DIR$/../OneTurnBattle/.idea/OneTurnBattle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Pi/.idea/Pi.iml" filepath="$PROJECT_DIR$/../Pi/.idea/Pi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Plural/.idea/Plural.iml" filepath="$PROJECT_DIR$/../Plural/.idea/Plural.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../QuadraticFormula/.idea/QuadraticFormula.iml" filepath="$PROJECT_DIR$/../QuadraticFormula/.idea/QuadraticFormula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TestHangMan/.idea/TestHangMan.iml" filepath="$PROJECT_DIR$/../TestHangMan/.idea/TestHangMan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" filepath="$PROJECT_DIR$/../TicTacToe/.idea/TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../change/.idea/change.iml" filepath="$PROJECT_DIR$/../change/.idea/change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/loancost.iml" filepath="$PROJECT_DIR$/.idea/loancost.iml" />
+    </modules>
+  </component>
+</project>

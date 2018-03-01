@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="QuadraticFormula" />
+    <orderEntry type="module" module-name="change" />
+    <orderEntry type="module" module-name="Plural" />
+    <orderEntry type="module" module-name="HTML2Latex" />
+    <orderEntry type="module" module-name="OneTurnBattle" />
+    <orderEntry type="module" module-name="Investments" />
+    <orderEntry type="module" module-name="Cipher" />
+    <orderEntry type="module" module-name="Pi" />
+    <orderEntry type="module" module-name="FractionAdd" />
+    <orderEntry type="module" module-name="Hangman" />
+    <orderEntry type="module" module-name="TicTacToe" />
+    <orderEntry type="module" module-name="HTML2Latex" />
+    <orderEntry type="module" module-name="MaskingTwitter" />
+    <orderEntry type="module" module-name="TestHangMan" />
+    <orderEntry type="module" module-name="ConnectN" />
+    <orderEntry type="module" module-name="FractionAddRadhav" />
+    <orderEntry type="module" module-name="MostCommonWord" />
+    <orderEntry type="module" module-name="Grading" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
